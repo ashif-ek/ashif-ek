@@ -2,7 +2,7 @@
 
 🖥️ computer science student at UoC<br>
 🧑‍💻 Django full-stack developer<br>
-🔭 flutter developer<br>
+🔭 React, javascript<br>
 👯 Looking to contribute to open-source projects <br>
 🌱 continuously learning new technologies <br>
 🤝 feel free to ask me anything, may i can help u u<br>
