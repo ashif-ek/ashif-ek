@@ -1,3 +1,11 @@
+✨HI, im ashif ek
+
+🖥️ computer science student at UoC<br>
+🧑‍💻 Django full-stack developer<br>
+🔭 React, javascript<br>
+👯 Looking to contribute to open-source projects <br>
+🌱 continuously learning new technologies <br>
+🤝 feel free to ask me anything, may i can help u u<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashif.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashifek) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashifek11@gmail.com) 
