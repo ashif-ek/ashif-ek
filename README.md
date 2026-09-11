@@ -2,9 +2,9 @@
 
 # Ashif E.K
 
-### Full-stack Engineer · React · Django · APIs
+### Full-Stack Engineer · React · Django · AI Systems
 
-**Building modern web applications with clean architecture, reliable APIs, and thoughtful user experiences.**
+Building scalable web applications and production-grade backend systems with a focus on **clean architecture, security, reliability, and performance**.
 
 <p>
   <a href="https://ashifek.in">Portfolio</a> ·
@@ -19,221 +19,120 @@
 
 ## About
 
-I’m a **Full-stack Engineer** focused on building practical, maintainable software across the frontend and backend.
+Full-Stack Engineer experienced in building **SaaS, e-commerce, analytics, and AI-powered platforms** across the frontend, backend, database, and deployment layers.
 
-My primary stack is **Python, Django, Django REST Framework, React, JavaScript, and PostgreSQL**. I enjoy working across the complete product lifecycle — from understanding a problem and designing the architecture to implementing features, integrating APIs, testing, and deploying production-ready applications.
+I work primarily with **Python, Django, DRF, FastAPI, React, Next.js, TypeScript, and PostgreSQL**, with hands-on experience in **authentication, RBAC, multi-tenancy, background processing, CI/CD, observability, and LLM/RAG systems**.
 
-Currently, I’m focused on becoming a stronger engineer through **real-world collaboration, open-source contribution, system design, and deeper software engineering fundamentals**.
-
-> **I don't just want code that works. I want code that is clear, reliable, secure, and easy for the next engineer to understand.**
+> **Build it clearly. Secure it properly. Measure it. Improve it.**
 
 ---
 
-## What I Work On
+## Tech Stack
 
-| Area | Focus |
-|---|---|
-| **Frontend** | React, JavaScript, responsive interfaces, state management |
-| **Backend** | Python, Django, Django REST Framework, FastAPI |
-| **Data** | PostgreSQL, SQLite, data modeling, API-driven applications |
-| **Architecture** | REST APIs, authentication, RBAC, modular systems |
-| **DevOps** | Docker, Nginx, Gunicorn, deployment workflows |
-| **Collaboration** | Git, GitHub, GitLab, pull requests, code review |
-| **Product** | Admin dashboards, analytics, workflows, UX |
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
----
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-## Core Stack
+**Backend & APIs**  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square)
+![Alembic](https://img.shields.io/badge/Alembic-1F6FEB?style=flat-square)
+![REST API](https://img.shields.io/badge/REST%20API-111827?style=flat-square)
 
-<div align="center">
+**Data, AI & ML**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-111827?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-6B46C1?style=flat-square)
+![SQL](https://img.shields.io/badge/ELT%20Pipelines-374151?style=flat-square)
 
-### Languages
+**Architecture, Security & Async**  
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-111827?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-111827?style=flat-square)
+![Multi-Tenancy](https://img.shields.io/badge/Schema--Based%20Multi--Tenancy-111827?style=flat-square)
+![RBAC](https://img.shields.io/badge/RBAC-111827?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![MFA](https://img.shields.io/badge/MFA-111827?style=flat-square)
+![SSO](https://img.shields.io/badge/SSO-111827?style=flat-square)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-111827?style=flat-square)
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,dart" />
+**Cloud, DevOps & Quality**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![CodeQL](https://img.shields.io/badge/CodeQL-181717?style=flat-square&logo=github&logoColor=white)
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,redux" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=django,fastapi" />
-
-### Database & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,nginx,git,github,gitlab" />
-
-### Design & Deployment
-
-<img src="https://skillicons.dev/icons?i=figma,vercel,netlify" />
-
-</div>
-
----
-
-## Engineering Focus
-
-```text
-Frontend        React · JavaScript · Vite · Tailwind CSS · Redux
-Backend         Python · Django · Django REST Framework · FastAPI
-Database        PostgreSQL · SQLite
-Architecture    REST APIs · Authentication · Authorization · RBAC
-DevOps          Docker · Nginx · Gunicorn
-Workflow        Git · GitHub · GitLab · Pull Requests · Code Review
-Deployment      Vercel · Render · Netlify
-```
+**Tools & Collaboration**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 
 ---
 
 ## Selected Work
 
-### Work Pilot
+### WorkPilot AI
+**Multi-tenant workflow automation platform**
 
-Contributing to a collaborative full-stack product with real-world organizational workflows.
+### Cipher Analytics
+**Privacy-preserving analytics platform** (Fully Homomorphic Encryption)
 
-Recent areas of contribution include:
+- Fully Homomorphic Encryption using CKKS via TenSEAL
+- Celery + Redis + Celery Beat for asynchronous workloads
+- Anomaly detection, clustering, and explainability with SHAP, UMAP, and HDBSCAN
+- React dashboards with Three.js, React Three Fiber, and ECharts
+- Django REST Framework + Channels + WebSockets for live task progress
 
-- Authentication and authorization
-- Role-based access control
-- Organization management
-- Employee onboarding
-- HR service modules
-- IT service modules
-- Analytics and dashboards
-- Admin workflows
+### NOIREL
+**Production luxury e-commerce platform**
 
-**What matters to me here:** working in a shared codebase, understanding existing architecture, making focused changes, and shipping features that fit the larger system.
 
----
-
-### Skill Stack
-
-A full-stack application built to demonstrate practical frontend and backend engineering.
-
-**Focus areas**
-
-- Modern React architecture
-- API integration
-- Authentication
-- State management
-- Responsive UI
-- Backend services
-- Production deployment
-
-[View repository →](https://github.com/ashif-ek/skill-stack)
 
 ---
 
-### Portfolio
+## Engineering Principles
 
-My developer portfolio and personal engineering showcase.
-
-**Focus areas**
-
-- Project presentation
-- Responsive design
-- Modern frontend architecture
-- Backend-powered content
-- Admin functionality
-
-[View portfolio →](https://ashifek.in)
-
----
-
-## How I Think About Engineering
-
-I try to make engineering decisions around a few principles:
-
-| Principle | What it means |
+| Principle | Practice |
 |---|---|
-| **Clarity over cleverness** | Prefer code that another engineer can understand quickly. |
-| **Correctness before optimization** | Make the behavior correct before making it fast. |
-| **Simple before complex** | Introduce abstraction when it solves a real problem. |
-| **Security by default** | Treat authentication, authorization, validation, and data protection as first-class concerns. |
-| **Small changes** | Keep changes focused, reviewable, and easier to reason about. |
-| **Understand the why** | Learn the underlying system instead of only memorizing APIs. |
+| **Clarity** | Prefer readable code over clever code. |
+| **Correctness** | Understand behavior before optimizing it. |
+| **Security** | Authentication, authorization, validation, and isolation are first-class concerns. |
+| **Simplicity** | Add abstraction when it solves a real problem. |
+| **Reliability** | Design for failure, observability, and recovery. |
+| **Collaboration** | Keep changes focused, reviewable, and documented. |
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<!-- GitHub contribution heatmap is provided natively by GitHub on this profile. -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=ashif-ek&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashif-ek&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="165" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ashif-ek&hide_border=true&theme=transparent" width="70%" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashif-ek&hide_border=true&bg_color=00000000&color=8b949e&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="100%" />
-
-</div>
-
-> **The GitHub profile's native contribution heatmap is the source of truth for my activity.**  
-> The charts above provide additional views of commits, languages, and contribution patterns.
-
----
-
-## Open Source
-
-I’m interested in contributing to projects where I can:
-
-- Understand unfamiliar codebases
-- Solve real engineering problems
-- Improve existing implementations
-- Participate in code review
-- Learn from experienced engineers
-- Build software that other people actually use
-
-I value **quality of contribution over contribution count**.
-
----
-
-## Currently Improving
-
-```text
-01  Data Structures & Algorithms
-02  Backend architecture & API design
-03  System design fundamentals
-04  Database design & query optimization
-05  Testing & reliability
-06  Docker & deployment
-07  Code review & collaborative engineering
-08  Open-source contribution
-```
-
----
-
-## Beyond the Stack
-
-Technology changes quickly. Engineering fundamentals last longer.
-
-So I’m deliberately working on:
-
-**Problem solving · Communication · Technical judgment · Product thinking ·
-Documentation · Debugging · Code quality · Learning how systems behave under real constraints**
-
----
 
 ## Connect
 
 <div align="center">
-
-If you're building something interesting, working on an open-source project, or want to talk about software engineering, feel free to reach out.
-
-<br/>
 
 <a href="https://ashifek.in">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
