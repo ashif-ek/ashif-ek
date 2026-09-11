@@ -103,12 +103,6 @@ I work primarily with **Python, Django, DRF, FastAPI, React, Next.js, TypeScript
 ### Cipher Analytics
 **Privacy-preserving analytics platform** (Fully Homomorphic Encryption)
 
-- Fully Homomorphic Encryption using CKKS via TenSEAL
-- Celery + Redis + Celery Beat for asynchronous workloads
-- Anomaly detection, clustering, and explainability with SHAP, UMAP, and HDBSCAN
-- React dashboards with Three.js, React Three Fiber, and ECharts
-- Django REST Framework + Channels + WebSockets for live task progress
-
 ### NOIREL
 **Production luxury e-commerce platform**
 
