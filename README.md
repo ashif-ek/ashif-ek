@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # Ashif E.K
 
@@ -15,7 +15,31 @@ Building scalable web applications and production-grade backend systems with a f
   
 </p>
 
+</div> -->
+
+
+ <div align="center">
+
+# Ashif E.K. (Ashif EK)
+
+### Full-Stack Engineer | Python · Django · FastAPI · React · Next.js · AI
+
+**GitHub:** [@ashif-ek](https://github.com/ashif-ek) · **Portfolio:** [ashifek.in](https://ashifek.in)
+
+Building scalable web applications, backend systems, and AI-powered platforms with a focus on clean architecture, security, reliability, and performance.
+
+Also known professionally as **Ashif EK**. Find my projects, code, and engineering work on GitHub.
+
+<p>
+  <a href="https://ashifek.in">Portfolio</a> ·
+  <a href="https://linkedin.com/in/ashifek">LinkedIn</a> ·
+  <a href="mailto:ashifek11@gmail.com">Email</a> ·
+  <a href="https://ashif-ek.github.io/docs-stack-material/">Docs Stack</a>
+</p>
+
 </div>
+
+---
 
 ---
 
